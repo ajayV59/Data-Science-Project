@@ -8,8 +8,11 @@ Whether you're a homebuyer, real estate investor, or property analyst, this proj
 
 ## Key Features
 
-### Property Price Prediction: Predict property prices based on historical data and various features such as location, size, amenities, etc.
+### Property Price Prediction: 
+Predict property prices based on historical data and various features such as location, size, amenities, etc.
 
-### Property Analysis: Analyze property data using descriptive statistics, visualizations, and advanced analytics techniques to gain insights into market trends, property characteristics, and more.
+### Property Analysis: 
+Analyze property data using descriptive statistics, visualizations, and advanced analytics techniques to gain insights into market trends, property characteristics, and more.
 
-### Property Recommender System: Receive personalized property recommendations based on your preferences, budget, location, and other criteria.
+### Property Recommender System: 
+Receive personalized property recommendations based on your preferences, budget, location, and other criteria.
